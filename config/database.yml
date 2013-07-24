@@ -1,0 +1,8 @@
+development:
+    adapter: postgresql
+    database: airport_development
+    host: localhost
+    username: rvidi
+    password: password
+    pool: 5
+    timeout: 5000
